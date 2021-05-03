@@ -1,2 +1,2 @@
 # multiple_ping_test
-scheduled and easy ping test on multiple hosts
+scheduled and easy ping test on multiple hosts for monitoring
